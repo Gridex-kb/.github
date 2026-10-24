@@ -8,7 +8,7 @@
 |---|---|
 | [knowledge-base-generator](https://github.com/Gridex-kb/knowledge-base-generator) | knowledge-base-generator |
 | [kb-en50160](https://github.com/Gridex-kb/kb-en50160) | EN 50160 / IEC 61000-4-30 전압품질 지식창고 — 평가 방법과 실무 해설 (한계값 수치는 원문 참조) |
-| [gbt-47655-2026-knowledge-base](https://github.com/Gridex-kb/gbt-47655-2026-knowledge-base) | 한국어 GB/T 47655-2026 구성망 성능 요구사항 및 시험방법 Obsidian 지식창고 |
+| [gbt-47655-2026-knowledge-base](https://github.com/Gridex-kb/gbt-47655-2026-knowledge-base) · [사이트](https://gridex-kb.github.io/gbt-47655-2026-knowledge-base/) | 한국어 GB/T 47655-2026 구성망 성능 요구사항 및 시험방법 Obsidian 지식창고 |
 
 ## GRIDEX 조직 안내
 
